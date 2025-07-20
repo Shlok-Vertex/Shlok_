@@ -1,12 +1,12 @@
-# 👨‍💻 Shlok Srivastava Portfolio
+# 👨‍💻 Shlok Srivastava Portfolio. 
 
 A modern, responsive personal portfolio website showcasing my work, skills, and experience as a Full Stack Web Developer.
 
-## 📝 Description
+## 📝 Description. 
 
 This is a professionally designed portfolio website built using HTML, CSS, and JavaScript. The website features a clean, dark-themed modern design with smooth scrolling functionality and interactive elements. It includes comprehensive sections for home, about, projects, source code downloads, and contact information.
 
-## ✨ Features
+## ✨ Features. 
 
 - 🎯 Responsive navigation bar with smooth scrolling
 - 🌙 Dark theme with professional color scheme
@@ -32,7 +32,7 @@ This is a professionally designed portfolio website built using HTML, CSS, and J
 - 🌐 Social media integration
 - 📄 Resume download option
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used. 
 
 - 🌐 HTML5
 - 🎨 CSS3 (with modern flexbox and grid layouts)
@@ -50,7 +50,7 @@ git clone [repository-url]
 2. Navigate to the project directory
 3. Open `index.html` in your preferred browser
 
-## 📁 Project Structure
+## 📁 Project Structure. 
 
 ```
 Shlok Portfolio/
